@@ -1,9 +1,10 @@
 streamlit
 openai
 langchain
-chromadb==0.4.24
+langchain-community
+chromadb==0.4.22
 protobuf==4.23.3
-opentelemetry-api
-opentelemetry-sdk
-opentelemetry-exporter-otlp
+opentelemetry-api==1.22.0
+opentelemetry-sdk==1.22.0
+opentelemetry-exporter-otlp==1.22.0
 tiktoken
