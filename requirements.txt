@@ -9,3 +9,4 @@ opentelemetry-sdk==1.22.0
 opentelemetry-exporter-otlp==1.22.0
 tiktoken
 numpy>=1.26.0,<2.0.0
+pypdf
