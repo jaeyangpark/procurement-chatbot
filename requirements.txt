@@ -8,3 +8,4 @@ opentelemetry-api==1.22.0
 opentelemetry-sdk==1.22.0
 opentelemetry-exporter-otlp==1.22.0
 tiktoken
+numpy==1.24.4
