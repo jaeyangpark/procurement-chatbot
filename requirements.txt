@@ -1,10 +1,9 @@
 streamlit
 openai
 langchain
-langchain-community
-langchain-openai
-langchain-chroma
-chromadb
-pysqlite3-binary
+chromadb==0.4.24
+protobuf==4.23.3
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp
 tiktoken
-pypdf
